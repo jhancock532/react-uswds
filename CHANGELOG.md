@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.1.0](https://github.com/trussworks/react-uswds/compare/6.0.0...6.1.0) (2023-11-15)
+
+
+### Features
+
+* Added multiselect story ([#2648](https://github.com/trussworks/react-uswds/issues/2648)) ([03652fe](https://github.com/trussworks/react-uswds/commit/03652fe3663735229a676cda23aa751ec2ed452d))
+
+
+### Bug Fixes
+
+* **a11y:** move aria-label from svg icon to button ([#2640](https://github.com/trussworks/react-uswds/issues/2640)) ([fa18032](https://github.com/trussworks/react-uswds/commit/fa18032f538655452e501079b306e4a314480da6))
+* adding labels in combo box (default combo box, with default value) ([#2636](https://github.com/trussworks/react-uswds/issues/2636)) ([7714d14](https://github.com/trussworks/react-uswds/commit/7714d1474a3512328e6391b12434293421de408a))
+
 ## [6.0.0](https://github.com/trussworks/react-uswds/compare/5.5.0...6.0.0) (2023-10-31)
 
 
